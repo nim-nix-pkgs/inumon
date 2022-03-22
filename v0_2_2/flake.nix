@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-inumon-v0_2_2.flake = false;
+  inputs.src-inumon-v0_2_2.ref   = "refs/tags/v0.2.2";
   inputs.src-inumon-v0_2_2.owner = "dizzyliam";
-  inputs.src-inumon-v0_2_2.ref   = "v0_2_2";
   inputs.src-inumon-v0_2_2.repo  = "inumon";
   inputs.src-inumon-v0_2_2.type  = "github";
   
