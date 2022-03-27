@@ -11,6 +11,7 @@
   inputs.src-inumon-v0_2_3.ref   = "refs/tags/v0.2.3";
   inputs.src-inumon-v0_2_3.owner = "dizzyliam";
   inputs.src-inumon-v0_2_3.repo  = "inumon";
+  inputs.src-inumon-v0_2_3.dir   = "";
   inputs.src-inumon-v0_2_3.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
