@@ -11,7 +11,6 @@
   inputs.src-inumon-master.ref   = "refs/heads/master";
   inputs.src-inumon-master.owner = "dizzyliam";
   inputs.src-inumon-master.repo  = "inumon";
-  inputs.src-inumon-master.dir   = "";
   inputs.src-inumon-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
